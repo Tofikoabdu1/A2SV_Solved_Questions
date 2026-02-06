@@ -1,14 +1,13 @@
 class Solution:
     def topKFrequent(self, nums: List[int], k: int) -> List[int]:
-        
-        count_s = Counter(nums)
-    
-        sorted_dict = dict(sorted(count_s.items(), key=lambda x: x[1], reverse=True))
-
-        ans = []
-
-        for num in sorted_dict.keys():
-            if len(ans) < k:
-                ans.append(num)
-
-        return ans
+        c = Counter(nums)
+        v = list(c.values())
+        v.sort()
+        # print(v)
+        max_val = v[-k:]
+        # print(max_val)
+        res = []
+        for k , val in c.items():
+            if val in max_val:
+                res.append(k)
+        return res
