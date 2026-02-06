@@ -1,15 +1,21 @@
 class Solution:
     def findDuplicate(self, paths: List[str]) -> List[List[str]]:
-        p ={}
-        for w in paths:
-            first , second = w.split(" ",1)
-            s = second.split()
-            p[first] = s
-        # print(p)
-        files = p.values()
-        # print(list(files))
-        file_c = [x.split("txt" , 1) for x in files]
-        print(file_c)
+        c = defaultdict(list)
+        for p in paths:
+            p = p.split()
+            path = p[0]
+            files = p[1:]
+            # print(files)
+            for f in files:
+                name , content = f.split(".txt")
+                p = path + "/" + name + ".txt"
+                c[content].append(p)
+            res = []
+            for k , val in c.items():
+                if len(val)>1:
+                    res.append(val)
+            # print(c)
+        return res
 
-
+            
         
