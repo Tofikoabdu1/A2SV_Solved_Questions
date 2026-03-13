@@ -67,4 +67,20 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
