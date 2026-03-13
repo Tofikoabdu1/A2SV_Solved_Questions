@@ -70,6 +70,7 @@
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
@@ -78,9 +79,11 @@
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0102-binary-tree-level-order-traversal](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
