@@ -41,6 +41,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0509-fibonacci-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -60,6 +61,7 @@
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0633-sum-of-square-numbers](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -89,4 +91,12 @@
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
+## Memoization
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0509-fibonacci-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 <!---LeetCode Topics End-->
