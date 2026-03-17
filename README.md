@@ -20,6 +20,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
@@ -81,6 +82,7 @@
 | [0509-fibonacci-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -117,6 +119,7 @@
 | [0050-powx-n](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -145,12 +148,14 @@
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+| [1823-find-the-winner-of-the-circular-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
