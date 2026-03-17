@@ -11,6 +11,7 @@
 | [0496-next-greater-element-i](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0641-design-circular-deque](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0739-daily-temperatures](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0881-boats-to-save-people/) | Medium |
 | [0930-binary-subarrays-with-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
@@ -37,6 +38,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
+| [0641-design-circular-deque](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Matrix
@@ -138,6 +140,7 @@
 | ------- | ------- |
 | [0206-reverse-linked-list](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0237-delete-node-in-a-linked-list](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0237-delete-node-in-a-linked-list/) | Medium |
+| [0641-design-circular-deque](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -153,6 +156,7 @@
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0641-design-circular-deque](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0641-design-circular-deque/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
