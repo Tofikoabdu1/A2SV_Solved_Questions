@@ -16,6 +16,7 @@
 | [0930-binary-subarrays-with-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0994-rotting-oranges](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
@@ -87,6 +88,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0930-binary-subarrays-with-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Tree
 | Problem Name | Difficulty |
@@ -146,6 +148,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0933-number-of-recent-calls/) | Easy |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
 ## Data Stream
 | Problem Name | Difficulty |
@@ -161,4 +164,16 @@
 | ------- | ------- |
 | [0496-next-greater-element-i](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Ordered Set
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
+## Monotonic Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 <!---LeetCode Topics End-->
