@@ -195,4 +195,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
+## Backtracking
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0077-combinations](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
