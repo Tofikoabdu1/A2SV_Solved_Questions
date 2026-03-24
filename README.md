@@ -5,6 +5,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0011-container-with-most-water/) | Medium |
+| [0039-combination-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0039-combination-sum/) | Medium |
 | [0053-maximum-subarray](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -198,5 +199,6 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0039-combination-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0039-combination-sum/) | Medium |
 | [0077-combinations](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 <!---LeetCode Topics End-->
