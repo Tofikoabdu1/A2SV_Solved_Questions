@@ -76,6 +76,7 @@
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0011-container-with-most-water/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0881-boats-to-save-people/) | Medium |
 ## Greedy
 | Problem Name | Difficulty |
@@ -113,21 +114,25 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Recursion
 | Problem Name | Difficulty |
@@ -146,6 +151,7 @@
 | [0496-next-greater-element-i](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0930-binary-subarrays-with-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0930-binary-subarrays-with-sum/) | Medium |
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [2526-find-consecutive-integers-from-a-data-stream](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2526-find-consecutive-integers-from-a-data-stream/) | Medium |
@@ -212,4 +218,8 @@
 | [0039-combination-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0039-combination-sum/) | Medium |
 | [0051-n-queens](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0077-combinations](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0653-two-sum-iv-input-is-a-bst](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 <!---LeetCode Topics End-->
