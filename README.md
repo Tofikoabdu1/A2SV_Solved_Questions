@@ -95,6 +95,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
+| [0390-elimination-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -139,6 +140,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
+| [0390-elimination-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Memoization
