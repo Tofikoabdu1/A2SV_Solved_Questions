@@ -104,6 +104,7 @@
 | [0633-sum-of-square-numbers](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
+| [2469-convert-the-temperature](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2469-convert-the-temperature/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
