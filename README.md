@@ -11,6 +11,7 @@
 | [0238-product-of-array-except-self](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0486-predict-the-winner](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -69,6 +70,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0053-maximum-subarray](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0486-predict-the-winner](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 ## Two Pointers
@@ -96,6 +98,7 @@
 | ------- | ------- |
 | [0050-powx-n](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0390-elimination-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
+| [0486-predict-the-winner](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
@@ -141,6 +144,7 @@
 | [0050-powx-n](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0390-elimination-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
+| [0486-predict-the-winner](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 ## Memoization
@@ -224,4 +228,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+## Game Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0486-predict-the-winner](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 <!---LeetCode Topics End-->
