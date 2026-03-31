@@ -15,8 +15,8 @@ class Solution:
 
         left = max(weights)
         right = sum(weights)
-        ans = -1
-        while left< right:
+        ans = left
+        while left<=right:
             mid = (left+right)//2
             if check(mid):
                 ans = mid
