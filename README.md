@@ -62,6 +62,7 @@
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -165,6 +166,7 @@
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0560-subarray-sum-equals-k/) | Medium |
@@ -232,6 +234,7 @@
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0017-letter-combinations-of-a-phone-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0039-combination-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
