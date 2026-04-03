@@ -149,6 +149,7 @@
 | [0100-same-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0210-course-schedule-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0802-find-eventual-safe-states](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
@@ -157,6 +158,7 @@
 | [0102-binary-tree-level-order-traversal](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
+| [0802-find-eventual-safe-states](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Tree
@@ -276,8 +278,10 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
+| [0802-find-eventual-safe-states](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 <!---LeetCode Topics End-->
