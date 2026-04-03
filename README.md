@@ -25,6 +25,7 @@
 | [0974-subarray-sums-divisible-by-k](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0974-subarray-sums-divisible-by-k/) | Medium |
 | [0994-rotting-oranges](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
+| [1029-two-city-scheduling](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1413-minimum-value-to-get-positive-step-by-step-sum/) | Easy |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 | [1480-running-sum-of-1d-array](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1480-running-sum-of-1d-array/) | Easy |
@@ -95,12 +96,14 @@
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0860-lemonade-change](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0860-lemonade-change/) | Easy |
 | [0881-boats-to-save-people](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0881-boats-to-save-people/) | Medium |
+| [1029-two-city-scheduling](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0881-boats-to-save-people](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0881-boats-to-save-people/) | Medium |
+| [1029-two-city-scheduling](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 ## Math
 | Problem Name | Difficulty |
