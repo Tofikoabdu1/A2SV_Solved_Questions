@@ -63,6 +63,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0394-decode-string](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
 | [2381-shifting-letters-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
@@ -159,6 +160,7 @@
 | [0050-powx-n](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0050-powx-n/) | Medium |
 | [0206-reverse-linked-list](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0206-reverse-linked-list/) | Easy |
 | [0390-elimination-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0390-elimination-game/) | Medium |
+| [0394-decode-string](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0486-predict-the-winner](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
@@ -187,6 +189,7 @@
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0394-decode-string](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
