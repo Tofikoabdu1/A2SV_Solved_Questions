@@ -256,6 +256,7 @@
 | [0039-combination-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0052-n-queens-ii/) | Hard |
 | [0077-combinations](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 ## Binary Search Tree
