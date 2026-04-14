@@ -106,6 +106,7 @@
 | [0881-boats-to-save-people](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0881-boats-to-save-people/) | Medium |
 | [1029-two-city-scheduling](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -128,6 +129,7 @@
 | [0781-rabbits-in-forest](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0781-rabbits-in-forest/) | Medium |
 | [1823-find-the-winner-of-the-circular-game](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1823-find-the-winner-of-the-circular-game/) | Medium |
 | [1922-count-good-numbers](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1922-count-good-numbers/) | Medium |
+| [2139-minimum-moves-to-reach-target-score](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
 | [2469-convert-the-temperature](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2469-convert-the-temperature/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
