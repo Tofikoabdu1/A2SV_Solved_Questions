@@ -15,6 +15,7 @@
 | [0304-range-sum-query-2d-immutable](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
+| [0456-132-pattern](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0486-predict-the-winner](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0523-continuous-subarray-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0523-continuous-subarray-sum/) | Medium |
@@ -133,6 +134,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0069-sqrtx/) | Easy |
+| [0456-132-pattern](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 ## Sliding Window
@@ -212,6 +214,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
+| [0456-132-pattern](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -244,6 +247,7 @@
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0496-next-greater-element-i](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0496-next-greater-element-i/) | Easy |
 | [0739-daily-temperatures](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 ## Heap (Priority Queue)
@@ -255,6 +259,7 @@
 ## Ordered Set
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0456-132-pattern](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1438-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit/) | Medium |
 ## Monotonic Queue
 | Problem Name | Difficulty |
