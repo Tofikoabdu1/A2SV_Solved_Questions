@@ -74,6 +74,7 @@
 | [0856-score-of-parentheses](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2381-shifting-letters-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2381-shifting-letters-ii/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Divide and Conquer
@@ -107,6 +108,7 @@
 | [1029-two-city-scheduling](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1029-two-city-scheduling/) | Medium |
 | [1589-maximum-sum-obtained-of-any-permutation](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1589-maximum-sum-obtained-of-any-permutation/) | Medium |
 | [2139-minimum-moves-to-reach-target-score](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2139-minimum-moves-to-reach-target-score/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +223,7 @@
 | [0739-daily-temperatures](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0739-daily-temperatures/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1598-crawler-log-folder](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1598-crawler-log-folder/) | Easy |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
@@ -283,6 +286,7 @@
 | [0077-combinations](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0077-combinations/) | Medium |
 | [0090-subsets-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1415-the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/) | Medium |
+| [2375-construct-smallest-number-from-di-string](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/2375-construct-smallest-number-from-di-string/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
