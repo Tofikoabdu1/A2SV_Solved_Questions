@@ -12,6 +12,7 @@
 | [0053-maximum-subarray](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0090-subsets-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0140-word-break-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
+| [0164-maximum-gap](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
@@ -117,6 +118,7 @@
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
@@ -322,11 +324,13 @@
 ## Bucket Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0347-top-k-frequent-elements](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0347-top-k-frequent-elements/) | Medium |
 | [0912-sort-an-array](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Radix Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0164-maximum-gap](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0912-sort-an-array](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0912-sort-an-array/) | Medium |
 ## Counting Sort
 | Problem Name | Difficulty |
