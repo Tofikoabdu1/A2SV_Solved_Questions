@@ -185,6 +185,7 @@
 | [0802-find-eventual-safe-states](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 | [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +198,7 @@
 | [0965-univalued-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0965-univalued-binary-tree/) | Easy |
 | [0994-rotting-oranges](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 | [1315-sum-of-nodes-with-even-valued-grandparent](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1315-sum-of-nodes-with-even-valued-grandparent/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Binary Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -330,6 +332,7 @@
 | ------- | ------- |
 | [0210-course-schedule-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -363,4 +366,8 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0140-word-break-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1971-find-if-path-exists-in-graph](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1971-find-if-path-exists-in-graph/) | Easy |
 <!---LeetCode Topics End-->
