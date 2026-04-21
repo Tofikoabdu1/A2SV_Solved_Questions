@@ -10,6 +10,7 @@
 | [0046-permutations](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
 | [0053-maximum-subarray](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
+| [0074-search-a-2d-matrix](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0090-subsets-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0140-word-break-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0164-maximum-gap](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
@@ -67,6 +68,7 @@
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0074-search-a-2d-matrix](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0304-range-sum-query-2d-immutable](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0304-range-sum-query-2d-immutable/) | Medium |
 | [0994-rotting-oranges](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0994-rotting-oranges/) | Medium |
 ## String
@@ -146,6 +148,7 @@
 | ------- | ------- |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0069-sqrtx/) | Easy |
+| [0074-search-a-2d-matrix](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0456-132-pattern](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
