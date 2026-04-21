@@ -13,6 +13,7 @@
 | [0074-search-a-2d-matrix](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
 | [0090-subsets-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
 | [0140-word-break-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0164-maximum-gap](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0164-maximum-gap/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0238-product-of-array-except-self](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0238-product-of-array-except-self/) | Medium |
@@ -149,6 +150,7 @@
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0069-sqrtx](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0069-sqrtx/) | Easy |
 | [0074-search-a-2d-matrix](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0074-search-a-2d-matrix/) | Medium |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0153-find-minimum-in-rotated-sorted-array/) | Medium |
 | [0456-132-pattern](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0456-132-pattern/) | Medium |
 | [0633-sum-of-square-numbers](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0633-sum-of-square-numbers/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
