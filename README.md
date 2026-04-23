@@ -180,6 +180,7 @@
 | ------- | ------- |
 | [0100-same-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0207-course-schedule](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -193,6 +194,7 @@
 | [0100-same-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0100-same-tree/) | Easy |
 | [0102-binary-tree-level-order-traversal](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0102-binary-tree-level-order-traversal/) | Medium |
 | [0111-minimum-depth-of-binary-tree](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0111-minimum-depth-of-binary-tree/) | Easy |
+| [0207-course-schedule](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0653-two-sum-iv-input-is-a-bst/) | Easy |
 | [0785-is-graph-bipartite](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
@@ -332,6 +334,7 @@
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0785-is-graph-bipartite](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0785-is-graph-bipartite/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
@@ -339,6 +342,7 @@
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0207-course-schedule](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0207-course-schedule/) | Medium |
 | [0210-course-schedule-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0210-course-schedule-ii/) | Medium |
 | [0802-find-eventual-safe-states](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0802-find-eventual-safe-states/) | Medium |
 ## Merge Sort
