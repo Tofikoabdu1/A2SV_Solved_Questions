@@ -78,6 +78,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0140-word-break-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0394-decode-string](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0394-decode-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -97,6 +98,7 @@
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0140-word-break-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
 | [0486-predict-the-winner](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
@@ -316,6 +318,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0022-generate-parentheses](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0039-combination-sum](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0039-combination-sum/) | Medium |
 | [0046-permutations](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0046-permutations/) | Medium |
 | [0051-n-queens](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0051-n-queens/) | Hard |
