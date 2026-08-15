@@ -101,6 +101,7 @@
 | [0022-generate-parentheses](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0053-maximum-subarray/) | Medium |
 | [0140-word-break-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0140-word-break-ii/) | Hard |
+| [0338-counting-bits](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0338-counting-bits/) | Easy |
 | [0486-predict-the-winner](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0509-fibonacci-number/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
@@ -313,6 +314,7 @@
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0090-subsets-ii](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0090-subsets-ii/) | Medium |
+| [0338-counting-bits](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/0338-counting-bits/) | Easy |
 | [3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/Tofikoabdu1/A2SV_Solved_Questions/tree/main/3191-minimum-operations-to-make-binary-array-elements-equal-to-one-i/) | Medium |
 ## Backtracking
 | Problem Name | Difficulty |
